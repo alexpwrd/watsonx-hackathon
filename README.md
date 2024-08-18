@@ -102,6 +102,8 @@ If your teammates or mentors suggest changes, make them in your branch and push 
 
 Once approved, merge your PR into the main branch.
 
+Our discord #dev channel will be updating with changes. 
+
 Remember: Frequent communication with your team is key to a successful hackathon!
 
 ## Troubleshooting
